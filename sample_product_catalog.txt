@@ -1,0 +1,59 @@
+Golden Crust Bakery product 1: Classic Croissant
+Indulge in the flaky, buttery goodness of our Classic Croissant. Crafted with traditional French techniques and the finest quality butter, this croissant offers a perfect blend of a crispy exterior and a soft, airy interior. Each bite is a testament to the art of baking, delivering a taste of Paris right to your doorstep.
+Price: ZAR 20
+
+Golden Crust Bakery product 2: Chocolate Muffin
+Our Chocolate Muffin is a chocolate lover's dream come true. Made with rich cocoa and filled with luscious chocolate chips, this muffin is moist, fluffy, and bursting with chocolatey goodness. Perfect for a decadent breakfast or a sweet afternoon treat, it's sure to satisfy all your chocolate cravings.
+Price: ZAR 25
+
+Golden Crust Bakery product 3: Artisan Sourdough Bread
+Experience the rustic charm of our Artisan Sourdough Bread, a masterpiece of traditional baking. With a tangy flavor, chewy texture, and crispy crust, this bread is made using a time-honored fermentation process that enhances its taste and nutritional value. Ideal for sandwiches, toast, or simply enjoyed with a drizzle of olive oil.
+Price: ZAR 35
+
+Golden Crust Bakery product 4: Cinnamon Roll
+Our Cinnamon Roll is a heavenly swirl of soft dough, rich cinnamon, and sweet icing. Baked fresh daily, it's a warm, comforting treat that's perfect for any time of day. The aromatic cinnamon and gooey frosting make it an irresistible temptation that's hard to resist.
+Price: ZAR 18
+
+Golden Crust Bakery product 5: Blueberry Cheesecake Slice
+Savor the delightful fusion of flavors with our Blueberry Cheesecake Slice. Featuring a creamy cheesecake layer topped with fresh, plump blueberries and a light, buttery crust, it's a refreshing and indulgent dessert that's perfect for cheesecake aficionados.
+Price: ZAR 40
+
+Golden Crust Bakery product 6: Coffee Walnut Cake (per slice)
+Enjoy the rich and nutty flavor of our Coffee Walnut Cake. Each slice is a perfect blend of aromatic coffee and crunchy walnuts, topped with a smooth coffee-flavored icing that complements the flavors wonderfully. Ideal for coffee lovers seeking a sweet treat.
+Price: ZAR 30
+
+Golden Crust Bakery product 7: Red Velvet Cupcake
+Our Red Velvet Cupcake is a classic favorite, with its striking red color and velvety smooth texture. Topped with creamy cheese frosting and a hint of vanilla, it's a sophisticated treat that's as beautiful to look at as it is delicious to eat.
+Price: ZAR 22
+
+Golden Crust Bakery product 8: Baguette
+Our Baguette is a testament to simple perfection. With a crisp crust and soft, airy interior, this traditional French bread is versatile and delicious, perfect for sandwiches, alongside soups, or just to enjoy with butter and cheese.
+Price: ZAR 15
+
+Golden Crust Bakery product 9: Pecan Nut Pie Slice
+Indulge in the sweet and nutty flavor of our Pecan Nut Pie Slice. With a filling of rich, caramelized pecans atop a flaky crust, it's a delightful treat that offers a satisfying crunch and deep, sweet flavor.
+Price: ZAR 45
+
+Golden Crust Bakery product 10: Apple Turnover
+Our Apple Turnover is the perfect combination of tender, flaky pastry and sweet, spiced apple filling. Baked until golden brown, it's a comforting and delicious snack or dessert that's best enjoyed warm.
+Price: ZAR 28
+
+Golden Crust Bakery product 11: Lemon Tart
+A zesty delight, our Lemon Tart combines a buttery crust with a smooth, tangy lemon filling. Topped with a light dusting of powdered sugar, it offers a refreshing and palate-cleansing taste.
+Price: ZAR 30
+
+Golden Crust Bakery product 12: Multigrain Loaf
+Our Multigrain Loaf is packed with nutritious seeds and grains, offering a hearty and healthy option. With a dense texture and rich flavor, it's perfect for those looking for a substantial, fiber-rich bread.
+Price: ZAR 32
+
+Golden Crust Bakery product 13: Chocolate Chip Cookies (per dozen)
+Crunchy on the outside, chewy on the inside, our Chocolate Chip Cookies are a timeless classic. Loaded with melty chocolate chips, these cookies are perfect for satisfying your sweet tooth.
+Price: ZAR 50 per dozen
+
+Golden Crust Bakery product 14: Almond Croissant
+Our Almond Croissant is a decadent twist on the classic. Filled with a fragrant almond paste and topped with sliced almonds and powdered sugar, it's a rich and flavorful pastry that's sure to delight.
+Price: ZAR 24
+
+Golden Crust Bakery product 15: Raspberry Danish
+Light and flaky, our Raspberry Danish is filled with a sweet raspberry jam and cream cheese filling. Drizzled with a sweet glaze, it's a fruity and delicious pastry that's perfect for a treat any time of the day.
+Price: ZAR 26
